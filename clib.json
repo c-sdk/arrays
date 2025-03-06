@@ -1,0 +1,12 @@
+{
+  "name": "arrays",
+  "version": "0.1.0",
+  "repo": "c-sdk/arrays",
+  "description": "Arrays.",
+  "license": "unlicense",
+  "src": ["./array.h", "./array.c"],
+  "dependencies": {
+    "c-sdk/arena": "*"
+  },
+  "keywords": ["array", "list"]
+}
